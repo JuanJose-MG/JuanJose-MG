@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a Aerospace engineering student at the University of Antioquia currently in the last semester of my bachelor's. I was project manager of the awarded Haba-Sulue team in the American Institute of Aeronautics and Astronautics (AIAA) "Space systems design" competition 2021, project manager and winner of the IEEE Cansat Colombia 2021 competition. Effective leader, creative and responsible person, passionate about systems engineering, spacecraft design, GNC ,flight dynamics, and machine learning.
 <!--
 **JuanJose-MG/JuanJose-MG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
